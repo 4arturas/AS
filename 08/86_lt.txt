@@ -1,0 +1,47 @@
+﻿8.6. Dviejų trukmių "užšaldymas" viename momente ir dvimačio laiko formavimas. 
+
+Subjektyvus laiko sustabdymas nėra išimtinis reiškinys žmogaus gyvenime.
+
+Laikas "sulėtėja" aukšto pavojaus sąlygose - krentant iš didelio aukščio, kada žmogus papuola į avariją ir taip toliau.
+
+Laikas "sulėtėja" ir miegant - kelių dešimčių sekundžių trukmės sapnas gali subjektyviame laike tęstis minutes ir valandas.
+
+Šiuose atvejuose vidinis darbas, kuriam reikia reikšmingo ilgio, telpa žymiai mažesniame "išorinio" laiko tarpe.
+
+Jeigu įsivaizduoti tokį tašką sąmonėje, iš kurio stebimas ir išorinis, ir vidinis "sulėtintas" laikas, tai iš jo matysis "dvimatis" laikas - vidinis laikas teka tarsi sąmonės viduje, tampa "statmenu" išoriniam laikui.
+
+Dažnai laikas įsivaizduojamas kaip vienmatis ir linijinis, nukreiptas tik iš praeities į ateitį.
+
+Ši viena dimensija atsispindi darbo, kurį galima atlikti pers sąlyginį laiko vienetą apimtyje.
+
+Dvimačio laiko formavimo kriterijumi yra vidinio darbo(pavyzdžiui, sudėtingų aritmetinių operacijų atlikimas arba sudėtingų loginių uždavinių sprendimas) atlikimas per labai trumpą išoriniam stebėtojui laiką.
+
+Tada uždavinys atliekamas laiko ašyje, kuri nukreipta "į sąmonės vidų", "statmenai" įprastai laiko ašiai.
+
+Tam, kad sukurti dvimatį laiką atliekamas vienmačio dviejų skirtingų trukmių sąmonėje išsaugojimo, "užšaldymo" veiksmas 
+
+Panašiai, kaip pratimuose, aprašytuose penki vienuolika skirsnyje, buvo naudojami įvykių "užšaldymo" veiksmai, tam, kad atlikti dvimačio laiko formavimo uždavinius naudojamas dviejų skirtingų dydžių laiko intervalų "užšaldymas" viename momente.
+
+Pradžioje ir pirmas ir antras intervalai, kurie pradedami po tam tikro garsinio signalo, laikomi paraleliai ir vienu metu, o vėliau laikymas viename momente atliekamas tik trukmių be garsų, kurie riboja ilgius.
+
+Garsinis signalas slopinamas.
+
+Toliau reikia kiekviename intervale atlikti veiksmus - dviejų skirtingų eilėraščių deklamavimą arba dviejų skirtingų skaičių sekų skaičiavimą.
+
+Aišku, kad dirbant vienu greičių, o reiškia, atliekant skirtingas darbų apimtis, veiksmų, kurie atliekami skirtingų ilgio tarpuose, pradžia ir galas paradoksaliai sutampa.
+
+Kadangi subjektyvūs greičiai ir veiklos vykdymas buvo vienodi, tai stebimas sąmonės pasidalinimas į du veiklos srautus, kurie nukreipti skirtingai.
+
+Dvimatis laikas suvokiamas paradoksaliai: subjektyviai skirtingi laiko srautai teka vienu greičiu.
+
+Taip, stebint kulkos skrydį(reiškinį, kuris kartais pasitaiko karinių veiksmų sąlygose) kelių mikrosekundžių trukmėje galima atlikti vidinius veiksmus, kurie trunka ne mažiau sekundės - pastebėti kulkos sukimąsi, įdrėskimus atsiradusius kulkai skriejant vamzdžiu ir taip toliau.
+
+Subjektyviai kulka juda lėtai, bet tai ne reiškia, kad visos skrendančios šiame momente kulkos sulėtina skriejimą stebėtojo atžvilgiu.
+
+Laikas tarsi "išsipučia" prie subjekto, į kurį buvo iššauta.
+
+Šios patirties negalima atkurti įprastoje sąmonės būsenoje - dviejų skirtingų ilgių laikymas viename momente reiškia sąmonės postūmį link pakitusios.
+
+Bet iš tiesų sąmonė tampa pakitusi tik atliekant skirtingus veiksmus kiekviename laiko tarpe esant subjektyviai vienam greičiui ir veiksmų, kurie atitinka kiekvienam tarpui apimčiai.
+
+Tada pasidaro įmanomas išoriniam stebėtojui(bet normalių praktikui) super greitų vidinių procesų organizavimas, tame tarpe sudėtingų veiksmų atlikimas per kelias sekundes.
