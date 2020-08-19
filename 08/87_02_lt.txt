@@ -22,7 +22,4 @@ Kaip taisyklė, sunkumai prasideda sujungiant dėmesio toro kraštus - tai, kas 
 
 "Dėmesio toras" gali arba transformuotis į dėmesio "sferą" arba "diską", arba ta[to vizualiu.
 
-Преодоление этого барьера
-открывает дорогу к дальнейшим модификациям, в том числе, к созданию
-внутренних структур ТВ и последующему запуску в ТВ процессов, аналогичных морфогенетическим.
 Šio barjero įveikimas atveria tolimesnių modifikacijų kelią, tame tarpe, vidinių dėmesio kūno struktūrų sukūrimą ir dėmesio kūno procesų, kurie analogiški morfogenetiniams paleidimą.
